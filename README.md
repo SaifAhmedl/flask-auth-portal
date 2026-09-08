@@ -80,4 +80,8 @@ The server will start locally at:
 | :---: | :---: |
 | ![Registration](screenshots/register.png) | ![Dashboard](screenshots/dashboard.png) |
 
+* **Deployment Verification:**
+  ![Lambda Active State](docs/lambda-active-state.png)
+* **Successful Execution Response:**
+  ![Lambda 302 Response](docs/lambda-response.png)
 *(To see a live demo locally, follow the Installation steps above).*
